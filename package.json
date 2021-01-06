@@ -1,0 +1,32 @@
+{
+  "name": "djaas",
+  "version": "1.0.0",
+  "description": "API for DJaaS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwestgard/DJaaS.git"
+  },
+  "keywords": [
+    "SaaS",
+    "API",
+    "open",
+    "source"
+  ],
+  "author": "weirdestnerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwestgard/DJaaS/issues"
+  },
+  "homepage": "https://github.com/dwestgard/DJaaS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+  }
+}
